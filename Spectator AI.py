@@ -135,7 +135,7 @@ def bbox_overlap(bbox1, bbox2):
 
 
 # def send_key_press(key):
-#     host = '192.168.127.113'  # as both code is running on same pc
+#     host = 'IP Address of the Broadcast/Spectating Machine'  # as both code is running on same pc
 #     port = 5000  # socket server port number
 
 #     client_socket = socket.socket()  # instantiate
@@ -266,7 +266,7 @@ def make_decision(frame, centroids, team1, team2, class_ids, player_bboxes, filt
 
 def main():
     # Define server details
-    server_ip = "192.168.127.113"  # Change this to your server's IP address
+    server_ip = "IP Address of the Broadcast/Spectating Machine"  # Change this to your server's IP address
     server_port = 5000
 
     # Initialize the continuous client
