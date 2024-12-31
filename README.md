@@ -20,3 +20,6 @@ Esports, with its 4.3 billion dollar global economy, has become a significant in
 - Detects clustering events where a group of players gathers in the same area.
 - Adjusts spectating behavior to switch players rapidly in clustered areas.
 - Prevents missing thrilling combat situations, especially during rapid kills.
+
+### DEMO: https://youtu.be/gsvYyvN-6Bw
+ 
