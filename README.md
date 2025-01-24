@@ -1,6 +1,6 @@
 # Spectating-Automation-AI
 
-## Esports Spectating Automation using AI
+## 1st Runners Up in Innerve 8 Hackathon by Army Institute of Technology
 
 Esports, with its 4.3 billion dollar global economy, has become a significant industry with a massive fanbase. Spectating in esports involves streaming players' Points of View (POVs) to the audience, but with multiple players in tournaments, manually streaming all of them is impractical. This project focuses on automating the spectating process using AI.
 
